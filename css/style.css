@@ -531,7 +531,7 @@ h1.watchs_taital::after {
 }
 .seemore_bt a:hover{
     color: #ffffff;
-    background-color: #b60213;
+    background-color: #FFC107;
 }
 
 /* watchs section end */
@@ -632,7 +632,7 @@ h1.watchs_taital::after {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #950311;
+    color: #FFC107;
     font-weight: bold;
     margin: 0px;
     text-transform: uppercase;
@@ -725,7 +725,7 @@ textarea#comment::placeholder {
 .send_bt a {
     width: 100%;
     float: left;
-    background-color: #a40514;
+    background-color: #FFC107;
     color: #e1e7d8;
     text-align: center;
     padding: 15px 0px;
@@ -813,7 +813,7 @@ textarea#comment::placeholder {
     color: #5e5e5e;
 }
 .call_text a:hover {
-    color: #a40514;
+    color: #FFC107;
 }
 .call_padding {
     padding-left: 15px;
