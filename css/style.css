@@ -309,11 +309,11 @@ button {
 }
 .menu_main li a:hover{
     color: #ffffff;
-    background-color: #b60213;
+    background-color: #FFC107;
 }
 .menu_main li.active a{
     color: #ffffff;
-    background-color: #b60213;
+    background-color: #FFC107;
 }
 
 .menu_main li a:hover img{
@@ -372,7 +372,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #b60213;
+    background-color: #FFC107;
     text-align: center;
     padding: 10px 0px;
     border-radius: 30px;
@@ -502,7 +502,7 @@ h1.watchs_taital::after {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #b60213;
+    background-color: #FFC107;
     text-align: center;
     padding: 10px 0px;
     border-radius: 30px;
@@ -659,7 +659,7 @@ h1.watchs_taital::after {
 
 .seemore_bt_1 a:hover {
     color: #ffffff;
-    background-color: #b60213;
+    background-color: #FFC107;
 }
 /* testimonial section end */
 
@@ -840,7 +840,7 @@ textarea#comment::placeholder {
     color: #1c1b1b;
 }
 .copyright_text a:hover{
-    color: #b60213;
+    color: #FFC107;
 }
 
 
